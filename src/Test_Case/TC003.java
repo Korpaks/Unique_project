@@ -7,5 +7,9 @@ public class TC003 {
         // again some changes
 
         //some lines
+
+        //second line
+
+        //again blabla
     }
 }
